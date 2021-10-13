@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632498811 source:/home/andrey/coding/Hamlet/general.cpp
+	"general.h"
+
+1632597957 /home/andrey/coding/Hamlet/general.h
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<ctype.h>
+	<stdlib.h>
+
+1632597720 source:/home/andrey/coding/Hamlet/main.cpp
+	"general.h"
+
